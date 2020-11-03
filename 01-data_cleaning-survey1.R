@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Prepare and clean the survey data downloaded from:
-https://www.voterstudygroup.org/publication/nationscape-data-set
+# https://www.voterstudygroup.org/publication/nationscape-data-set
 # Author: Kaiyue Wu, Mengxin Zhao, Zikun Lei
 # Data: 30 October 2020
 # Contact: zikun.lei@mail.utoronto.ca
